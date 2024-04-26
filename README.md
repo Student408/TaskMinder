@@ -20,24 +20,24 @@ Task-Minder is a straightforward and user-friendly reminder app designed to help
 
 ## Launch Screen/Splash Screen
 
-![Launch Screen](launch_screen.png)
+![Launch Screen](launch_screen.jpg)
 
 The app opening page will contain a Task Reminder page which will allow you to enter the popup display message or reminder message. On clicking Remind Me button the next interface will open and the remainder will be set to the same name given as the task name.
 
 ## Home Page
 
-![Home Page](home_page.png)
+![Home Page](home_page.jpg)
 
 The home page of the basic Android reminder app provides a user-friendly interface for managing tasks and appointments efficiently. It typically features a clean layout with options to create and delete reminders. Users can set dates, times, and custom notifications for their tasks. The home page may also display a list of upcoming reminders, ensuring users stay organized and never miss important events. With its intuitive design and functionality, the home page serves as the central hub for users to stay on top of their daily schedules effortlessly.
 
 ## Reminder Setup
 
-![Reminder Setup](reminder_setup.png)
+![Reminder Setup](reminder_setup.jpg)
 
-A reminder will be set at the date and time given in the previous interface and a message will pop up that the task is scheduled successfully to confirm it. We can easily add more tasks or reminders from the same page or delete a task by long pressing the task added.
+A reminder will be set at the date and time given in the previous interface and a message will pop up that the task is scheduled successfully to confirm it. We can easily add more tasks or reminders from the same page or delete a task by long-pressing the task added.
 
 ## Popup Display of Reminder (Notification)
 
-![Notification](notification.png)
+![Notification](notification.jpg)
 
 The app includes popup notifications for reminders, ensuring users never overlook important tasks or appointments. When a reminder is due, a notification popup appears on the device screen, displaying relevant details such as the task name, time, and date. Users can quickly take action on the reminder or dismiss it directly from the popup for added convenience.
