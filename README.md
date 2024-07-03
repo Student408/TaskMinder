@@ -2,6 +2,8 @@
 
 A task reminder application is a software tool designed to help individuals or teams organize and manage their tasks, appointments, deadlines, and other commitments.
 
+[Download Now](https://github.com/Student408/TaskMinder/raw/main/TaskMinder.apk)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
